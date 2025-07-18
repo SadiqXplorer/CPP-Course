@@ -1,2 +1,2 @@
 # CPP-Course
-This is repo is created by Sadiq  to track and backup my code .
+This repo is created by Sadiq  to track and backup code (Cpp codes)
